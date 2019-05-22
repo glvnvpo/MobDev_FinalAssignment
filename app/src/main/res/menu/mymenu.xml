@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/group1">
+        <item
+            android:id="@+id/menu_start"
+            android:orderInCategory="1"
+            android:title="Activity 1">
+        </item>
+        <item
+            android:id="@+id/menu_easy"
+            android:orderInCategory="2"
+            android:title="Activity 2"
+            android:background="#ADFF2F" >
+        </item>
+        <item
+            android:id="@+id/menu_middle"
+            android:orderInCategory="2"
+            android:title="Activity 3"
+            >
+        </item>
+        <item
+            android:id="@+id/menu_hard"
+            android:orderInCategory="2"
+            android:title="Activity 4">
+        </item>
+    </group>
+</menu>

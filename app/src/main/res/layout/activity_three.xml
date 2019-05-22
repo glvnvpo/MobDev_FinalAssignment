@@ -8,17 +8,6 @@
         android:id="@+id/textView1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="This is Activity 2">
+        android:text="This is Activity 3">
     </TextView>
-    <TextView
-        android:id="@+id/textView_info"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Имя:"/>
-    <TextView
-        android:id="@+id/textView_name"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        />
-
 </LinearLayout>
